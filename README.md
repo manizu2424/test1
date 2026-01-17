@@ -13,7 +13,7 @@
 - dot list
 - dot list
 
-[link](joyban.pe.kr/joylink)
+[link](https://joyban.pe.kr/joylink)
 
 ```
 code block

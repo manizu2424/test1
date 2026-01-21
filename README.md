@@ -1,20 +1,25 @@
-# title
-## sub title
+# test1
 
-**bold text**
+간단한 첫 번째 테스트용 저장소입니다.
 
-*italic text*
+## 설명
+이 저장소는 HTML 기반의 간단한 예제 프로젝트입니다. 주된 파일은 `index.html`이며, 브라우저에서 열어 동작을 확인할 수 있습니다.
 
-~~reset line~~
+## 사용법
+- 로컬에서 확인하려면 저장소를 클론한 뒤 `index.html` 파일을 브라우저로 열면 됩니다.
+- 또는 간단한 HTTP 서버를 사용해 확인할 수 있습니다:
+  - Python 3: `python -m http.server 8000` (루트에서 실행)
+  - 이후 브라우저에서 `http://localhost:8000` 접속
 
-1. numbered list
-2. nunber list
+## 파일 구조
+- `index.html` — 메인 HTML 파일
+- `README.md` — 이 파일
 
-- dot list
-- dot list
+## 기여
+기여는 환영합니다. 버그 리포트나 개선 제안은 Issue로 남겨주세요. 간단한 수정은 PR로 보내주셔도 됩니다.
 
-[link](https://joyban.pe.kr/joylink)
+## 저자
+- manizu2424
 
-```
-code block
-```
+## 라이선스
+기본적으로 MIT 라이선스를 권장합니다. 다른 라이선스를 원하시면 알려주세요.
